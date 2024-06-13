@@ -1,0 +1,40 @@
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.vbproj.AssemblyReference.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.AssemblyInfoInputs.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.AssemblyInfo.vb
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.vbproj.CoreCompileInputs.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.exe
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.deps.json
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.runtimeconfig.json
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.pdb
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.vbproj.CopyComplete
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\refint\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.pdb
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.genruntimeconfig.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarTextoSimples\Demo-EnviarTextoSimples\obj\Debug\net6.0\ref\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.exe
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.deps.json
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.runtimeconfig.json
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\Demo-EnviarTextoSimples.pdb
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.vbproj.AssemblyReference.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.AssemblyInfoInputs.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.AssemblyInfo.vb
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.vbproj.CoreCompileInputs.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.vbproj.CopyComplete
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\refint\Demo-EnviarTextoSimples.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.pdb
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\Demo-EnviarTextoSimples.genruntimeconfig.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarTextoSimples\obj\Debug\net6.0\ref\Demo-EnviarTextoSimples.dll

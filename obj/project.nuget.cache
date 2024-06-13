@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7a+A7aAMrd8pT5gtW+aOdayjdX7RNLDC0hw4sI+KxicndDE6MBps07HyHaERtFT55graKKbFb35L3eXayWclXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeann.oliveira\\Desktop\\Demo VB.net - PlugMessage\\Demo-EnviarTextoSimples\\Demo-EnviarTextoSimples\\Demo-EnviarTextoSimples.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeann.oliveira\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\jeann.oliveira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeann.oliveira\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\jeann.oliveira\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
